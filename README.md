@@ -1,3 +1,12 @@
+# things we learnd in HTML 
+## How insrt an imge in our web page 
+## how we cuold add links in our Web pages 
+## how we can clone (copy) from our GitHib page 
+## how we use a tolls  for example Git Toll 
+
+# This is an Example of some of the thing i have learnd to do 
+
+
 # One Click
 
 ## Thorw this page you can just with one click make as Gallery for  pictuers  
