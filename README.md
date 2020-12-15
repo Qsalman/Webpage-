@@ -1,6 +1,6 @@
 # One Click
 
-## Thorw this page you can just with one click go to the weeb site buy clinking one clik 
+## Thorw this page you can just with one click make as Gallery for  pictuers  
  
  
  
