@@ -1,4 +1,4 @@
-# things we learnd in HTML 
+# Things we learnd in HTML 
 ## How insrt an imge in our web page 
 ## how we cuold add links in our Web pages 
 ## how we can clone (copy) from our GitHib page 
