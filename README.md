@@ -16,7 +16,7 @@
 ### **5.git init : to create new repostory on your device** 
 ### **6.git clone : to download repostory from github to your device**
 ### **7. git status: to check the status of repostory**
-### **8.git log : show us meesage about commit that we do **
+### **8.git log : show us meesage about commit that we do**
 ### **9. git pull: to git the new update to your device**
 ### **10. git push : to put your change on repostory**
 
