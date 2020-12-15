@@ -16,4 +16,4 @@
    
 ![YouTube](https://rotorvideos-heroku-production-uploads.storage.googleapis.com/blog/images/000/000/062/original.jpg?1529919987)
 
-<img alt="YouTube " src="https://rotorvideos-heroku-production-uploads.storage.googleapis.com/blog/images/000/000/062/original.jpg?1529919987" width=1200" height="400"> ![YouTube]
+<img alt="YouTube " src="https://rotorvideos-heroku-production-uploads.storage.googleapis.com/blog/images/000/000/062/original.jpg?1529919987" width=1200" height="400"> ![YouTube] 
